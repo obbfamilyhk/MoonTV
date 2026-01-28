@@ -1,5 +1,21 @@
 {
   "cache_time": 7200,
+    "custom_category": [
+    { "name": "翡翠港剧", "type": "tv", "query": "港剧" },
+    { "name": "华语/港片", "type": "movie", "query": "华语" },
+    { "name": "豆瓣高分", "type": "movie", "query": "豆瓣高分" },
+    { "name": "动作枪战", "type": "movie", "query": "动作" },
+    { "name": "爆笑喜剧", "type": "movie", "query": "喜剧" },
+    { "name": "悬疑烧脑", "type": "movie", "query": "悬疑" },
+    { "name": "经典老片", "type": "movie", "query": "经典" },
+    { "name": "最新大片", "type": "movie", "query": "最新" },
+    { "name": "国产热剧", "type": "tv", "query": "国产剧" },
+    { "name": "欧美剧场", "type": "tv", "query": "美剧" },
+    { "name": "日韩精选", "type": "tv", "query": "韩剧" },
+    { "name": "日本动画", "type": "tv", "query": "日本动画" },
+    { "name": "综艺娱乐", "type": "tv", "query": "综艺" },
+    { "name": "深度纪录", "type": "tv", "query": "纪录片" }
+  ],
   "api_site": {
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",

@@ -84,6 +84,86 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "sony": {
+      "api": "https://suoniapi.com",
+      "name": "索尼资源(粤语强)"
+    },
+    "kuaiche": {
+      "api": "https://caiji.kczyapi.com",
+      "name": "快车资源(港片多)"
+    },
+    "hongniu": {
+      "api": "https://www.hongniuzy2.com",
+      "name": "红牛资源"
+    },
+    "feisu": {
+      "api": "https://www.feisuzyapi.com",
+      "name": "飞速资源"
+    },
+    "tiankong": {
+      "api": "https://api.tiankongapi.com",
+      "name": "天空资源"
+    },
+    "kuaikan": {
+      "api": "https://kuaikan-api.com",
+      "name": "快看资源"
+    },
+    "lehuo": {
+      "api": "https://cj.lhzyapi.com",
+      "name": "乐活资源"
+    },
+    "henan": {
+      "api": "https://api.hnzyapi.com",
+      "name": "河南资源"
+    },
+    "baiwan": {
+      "api": "https://api.bwzyapi.com",
+      "name": "百万资源"
+    },
+    "subo": {
+      "api": "https://subocaiji.com",
+      "name": "速播资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi.com",
+      "name": "U酷资源"
+    },
+    "mizhi": {
+      "api": "https://api.mizhiapi.com",
+      "name": "蜜汁资源"
+    },
+    "jinying": {
+      "api": "https://jyzyapi.com",
+      "name": "金鹰资源"
+    },
+    "huya": {
+      "api": "https://www.huyazyapi.com",
+      "name": "虎牙资源"
+    },
+    "mogu": {
+      "api": "https://moguzy.com",
+      "name": "蘑菇资源"
+    },
+    "muli": {
+      "api": "https://alapi.getimg.top",
+      "name": "茉莉资源"
+    },
+    "haokan": {
+      "api": "https://www.hkzy.ltd",
+      "name": "好看资源"
+    },
+    "duoduo": {
+      "api": "https://ddzy.top",
+      "name": "多多资源"
+    },
+    "shiyu": {
+      "api": "https://shiyuzy.com",
+      "name": "十雨资源"
+    },
+    "qihu": {
+      "api": "https://caiji.qhzyapi.com",
+      "name": "奇虎资源"
     }
   }
 }
